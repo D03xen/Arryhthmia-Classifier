@@ -4,7 +4,7 @@ Dataset used in this project is available on the UCI machine learning Repository
 • It can be found at the following address: https://archive.ics.uci.edu/ml/datasets/Arrhythmia. 
 
 
-• It consists of 452 different examples spread over 16 classes. Of the 452 examples, 245 are of "normal" people. We also have 12 different types of arrhythmias. Among all these types of arrhythmias, the most representative are the "coronary artery disease" and "Rjgbt boundle branch block".
+• It consists of 452 different examples spread over 16 classes. Of the 452 examples, 245 are of "normal" people. We also have 12 different types of arrhythmias. Among all these types of arrhythmias, the most representative are the "coronary artery disease" and "Right bundle branch block".
 
 
 • We have 279 features, which include age, sex, weight, height of patients and related information from the electrocardiogram. We explicitly observe that the number of features is relatively high compared to the number of examples we are available.
