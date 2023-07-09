@@ -1,4 +1,4 @@
-# Arrythima-Classifier
+# Arryhthmia-Classifier
 Dataset used in this project is available on the UCI machine learning Repository. 
 
 • It can be found at the following address: https://archive.ics.uci.edu/ml/datasets/Arrhythmia. 
